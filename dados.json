@@ -3,17 +3,17 @@
         {
         "nome": "Harry Potter - A Pedra Filosofal",
         "preco": 36.99,
-        "imagem": "https://a-static.mlcdn.com.br/450x450/livro-harry-potter-e-a-pedra-filosofal-j-k-rowling/magazineluiza/223260000/dd30323cff02c02a65bd24df60163a93.jpg"
+        "imagem": "<img src=\"/img/harryPotter.webp\">"
         },
         {
         "nome": "Senhor dos Aneis - A sociedade do Anel",
         "preco": 45.00,
-        "imagem": "https://m.media-amazon.com/images/I/81MZ8OjmQrL._AC_UF1000,1000_QL80_.jpg"
+        "imagem": "<img src=\"/img/senhorDosAneis.webp\">"
         },
         {
         "nome": "Destrua esse Diario",
         "preco": 89.99,
-        "imagem": "https://www.intrinseca.com.br/destruaestediario/_img/capa_diario.png"
+        "imagem": "<img src=\"/img/DestruaEsteDiario.jpg\">"
         }
     ]
 }
