@@ -3,17 +3,17 @@
         {
         "nome": "Harry Potter - A Pedra Filosofal",
         "preco": 36.99,
-        "imagem": "<img src=\"/img/harryPotter.webp\">"
+        "imagem": "<img class=\"image\" src=\"/img/harryPotter.webp\">"
         },
         {
         "nome": "Senhor dos Aneis - A sociedade do Anel",
         "preco": 45.00,
-        "imagem": "<img src=\"/img/senhorDosAneis.webp\">"
+        "imagem": "<img class=\"image\" src=\"/img/senhorDosAneis.webp\">"
         },
         {
         "nome": "Destrua esse Diario",
         "preco": 89.99,
-        "imagem": "<img src=\"/img/DestruaEsteDiario.jpg\">"
+        "imagem": "<img class=\"image\" src=\"/img/DestruaEsteDiario.jpg\">"
         }
     ]
 }
