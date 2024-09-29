@@ -1,13 +1,13 @@
 {
-    "imagem": "<img src=\"/img/Harry.jpg\" width=\"100px\">",
+    "imagem": "<img src=\"img/Harry.jpg\" width=\"100px\">",
     "nome": "Harry Potter - Pedra Filosofal",
     "preco": "39,99",
 
-    "imagem2": "<img src=\"/img/Aneis.jpg\" width=\"100px\">",
+    "imagem2": "<img src=\"img/Aneis.jpg\" width=\"100px\">",
     "nome2": "Senhor dos Aneis - A sociedade do Anel",
     "preco2": "45,69",
 
-    "imagem3": "<img src=\"/img/diario.jfif\" width=\"100px\">",
+    "imagem3": "<img src=\"img/diario.jfif\" width=\"100px\">",
     "nome3": "Destrua este Diário",
     "preco3": "22,99"
 }
