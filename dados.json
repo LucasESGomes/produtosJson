@@ -1,5 +1,5 @@
 {
-    "imagem": "<img src=\"/img/Harry.jpg\" width=\"100px\">",
+    "imagem": "./img/Harry.jpg",
     "nome": "Harry Potter - Pedra Filosofal",
     "preco": "39,99",
 
